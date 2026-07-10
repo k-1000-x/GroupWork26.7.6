@@ -65,8 +65,8 @@ npm config set registry https://registry.npmmirror.com
 
 ```bash
 git --version
-git config --global user.name "xk"
-git config --global user.email "2660456474@qq.com"
+git config --global user.name "你的姓名"
+git config --global user.email "你的QQ邮箱@qq.com"
 ```
 
 {% asset_img 02-git-version.png Git版本验证 %}
